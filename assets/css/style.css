@@ -1,0 +1,32 @@
+body {
+    background: lightgray;
+    margin: 0 auto;
+}
+
+.header {
+    background: darkgray;
+    height: 50px;
+    margin: 0 auto;
+}
+
+input[type=submit] {
+    background: teal;
+    color: white;
+    border: none;
+    padding: 5px 10px 5px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+input[type=text] {
+    border-radius: 2px;
+}
+
+.hero {
+    background: black;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    color: white;
+    padding: 5px 10px 5px 10px;
+}
